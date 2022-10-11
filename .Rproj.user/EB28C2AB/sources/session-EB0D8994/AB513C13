@@ -1,27 +1,27 @@
 {
-    "id": "8DB975B0",
-    "path": "C:/Users/Administrador/Desktop/R_in_a_Nutshell/08_series_de_tiempo.R",
-    "project_path": "08_series_de_tiempo.R",
+    "id": "AB513C13",
+    "path": "C:/Users/Administrador/Desktop/R_in_a_Nutshell/12_clases.R",
+    "project_path": "12_clases.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "3739123579",
     "contents": "",
     "dirty": false,
-    "created": 1665495857568.0,
+    "created": 1665497330588.0,
     "source_on_save": false,
-    "relative_order": 2,
+    "relative_order": 1,
     "properties": {
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "39,0",
-        "scrollLine": "22"
+        "cursorPosition": "20,1",
+        "scrollLine": "6"
     },
     "folds": "",
-    "lastKnownWriteTime": 1665494799,
+    "lastKnownWriteTime": 1665497934,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1665494799,
+    "last_content_update": 1665497934471,
     "read_only": false,
     "read_only_alternatives": []
 }
