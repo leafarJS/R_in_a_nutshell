@@ -32,4 +32,37 @@ v
 
 t(v)
 
-#Reshaping data frames and matrices
+# Sorting
+
+w <- c(5,4,7,2,7,1)
+w
+sort(w)
+
+sort(w, decreasing = TRUE)
+
+length(w)
+
+length(w) <- 7
+
+w
+
+sort(w)
+
+sort(w, na.last = TRUE)
+
+sort(w, na.last = FALSE)
+
+
+#ORDER
+
+v <- c(11,12,13,14,15)
+order(v)
+
+v[order(v)]
+
+
+u <- c("pig", "cow", "duck", "horse", "rat")
+w <- data.frame(v, u)
+w
+
+w[order(w$v),]
